@@ -1,8 +1,9 @@
 # Hi, I'm Aqsa 👋
 
+
 🎓 CS graduate from Mumbai University  
-☕ Java | Python | DSA 
-🚀 Interned at SDAC — built & deployed hybrid apps  
+☕ Java | Python | DSA     
+🚀 Interned at SDAC — built & deployed hybrid apps   
 🌱 Currently exploring: Springboot, DSA, System design  
 
 📫 Reach me: https://www.linkedin.com/in/aqsa-ziaulhaque-shaikh
