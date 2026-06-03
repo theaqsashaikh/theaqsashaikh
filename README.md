@@ -1,4 +1,11 @@
-## Hi there 👋
+# Hi, I'm Aqsa 👋
+
+🎓 CS graduate from Mumbai University  
+☕ Java | Python | DSA 
+🚀 Interned at SDAC — built & deployed hybrid apps  
+🌱 Currently exploring: Springboot, DSA, System design  
+
+📫 Reach me: https://www.linkedin.com/in/aqsa-ziaulhaque-shaikh
 
 <!--
 **theaqsashaikh/theaqsashaikh** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
